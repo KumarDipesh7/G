@@ -1,3 +1,17 @@
+6a
+file bana commit kr 
+git remote add origin  Githublink
+git push -u origin master 
+
+6b create 1 feature branch 
+then make file commit changes
+git push origin feature
+
+6c create one more feature branch
+make file and commit changes
+git push -u origin feature
+
+
 1a 
 git log --globar user.email deekr777@gmail.com
 
