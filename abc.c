@@ -1,7 +1,11 @@
 1a 
 git log --globar user.email deekr777@gmail.com
 
-1b
+1b file banaya aur usme modify kiya bina git add  aur commit kiye
+branch banakr git stash apply kr denge 
+git stash pop kr denge
+git stash list
+
 
 git init 
 file banao
